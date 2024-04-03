@@ -22,10 +22,19 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine();
 
+            // Welcome to Programming 120
+            Console.Write("Welcome to ");
+            Console.WriteLine("Programming 120");
+
+            //Fav Artist: Jeff Bernat
+            Console.WriteLine("Jeff Bernat");
+            Console.WriteLine("Jeff Bernat 2");
+
+
             // Compile time error
             // is an error that VS will warn you about, that there is improper syntax someplace. Needs to be fixed before you can build your code.
             // Errors in the Error list will "Help" you find the problem
-            
+
         } // End of main
     } // End of Class
 } // End of Name Space
